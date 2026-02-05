@@ -9,13 +9,13 @@ This mini project converts temperature values between Celsius and Fahrenheit.
 ~Instant conversion result
 
 ###🛠 Technologies Used:
-Python 3
+~Python 3
 
 ###🧠 Concepts Used:
-Variables
-Conditional statements
-User input
-Basic mathematical formulas
+~Variables
+~Conditional statements
+~User input
+~Basic mathematical formulas
 
 ###▶️ How to Run:
 Make sure Python is installed on your system
@@ -34,9 +34,9 @@ Enter unit (C/F): F
 Converted Temperature: 36.6 C
 
 ###🔮 Future Improvements:
-Add Kelvin conversion
-Add menu-driven interface
-Convert into GUI using Tkinter
+~Add Kelvin conversion
+~Add menu-driven interface
+~Convert into GUI using Tkinter
 
 ##🙋‍♀️ Author:
 Nikita Jadhav
