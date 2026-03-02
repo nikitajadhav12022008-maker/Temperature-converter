@@ -26,7 +26,7 @@ Make sure Python is installed on your system
 Clone the repository or download the file
 Run the program using:
 ```bash
-python Temperature converter.py
+python temperature_converter.py
 -----
 
 ###📌 Sample Output:
