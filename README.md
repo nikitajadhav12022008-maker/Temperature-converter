@@ -2,8 +2,6 @@
 
 A simple command-line Temperature Converter built using Python.
 This mini project converts temperature values between Celsius and Fahrenheit.
-
-
 ---
 
 ## 🚀 Features:
@@ -12,25 +10,19 @@ This mini project converts temperature values between Celsius and Fahrenheit.
 -Convert Fahrenheit to Celsius
 -User-friendly CLI input
 -Instant conversion result
-
-
 ---
 
 ## 🛠 Technologies Used:
 
 Python 3
-
-
 ---
 
 ## 🧠 Concepts Used:
 
-Variables
-Conditional statements
-User input
-Basic mathematical formulas
-
-
+-Variables
+-Conditional statements
+-User input
+-Basic mathematical formula
 ---
 
 ## ▶️ How to Run:
@@ -40,10 +32,9 @@ Clone the repository or download the file
 Run the program using:
 ```bash
 python temperature_converter.py
-
 ---
 
-## 📌 Sample Output:
+##📌 Sample Output:
 
 Enter temperature: 25
 Enter unit (C/F): C
@@ -52,8 +43,6 @@ OR
 Enter temperature: 98
 Enter unit (C/F): F
 Converted Temperature: 36.6 C
-
-
 ---
 
 ## 🔮Future Improvements:
@@ -61,14 +50,11 @@ Converted Temperature: 36.6 C
 Add Kelvin conversion
 Add menu-driven interface
 Convert into GUI using Tkinter
-
 ---
 
 ## 🙋‍♀️ Author:
 
 Nikita Jadhav
-
-
 ---
 
 ## ⭐ If you like this project, don’t forget to star the repository!
