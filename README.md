@@ -10,6 +10,8 @@ This mini project converts temperature values between Celsius and Fahrenheit.
 -Convert Fahrenheit to Celsius
 -User-friendly CLI input
 -Instant conversion result
+
+
 ---
 
 ## 🛠 Technologies Used:
@@ -23,6 +25,8 @@ Python 3
 -Conditional statements
 -User input
 -Basic mathematical formula
+
+
 ---
 
 ## ▶️ How to Run:
@@ -47,9 +51,11 @@ Converted Temperature: 36.6 C
 
 ## 🔮Future Improvements:
 
-Add Kelvin conversion
-Add menu-driven interface
-Convert into GUI using Tkinter
+-Add Kelvin conversion
+-Add menu-driven interface
+-Convert into GUI using Tkinter
+
+
 ---
 
 ## 🙋‍♀️ Author:
