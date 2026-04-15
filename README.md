@@ -22,10 +22,11 @@ This mini project converts temperature values between Celsius and Fahrenheit.
 
 ## 🧠 Concepts Used:
 
--Variables
--Conditional statements
--User input
--Basic mathematical formula
+- Variables
+- Conditional statements
+- User input
+- Basic mathematical formula
+
 ---
 
 ## ▶️ How to Run:
