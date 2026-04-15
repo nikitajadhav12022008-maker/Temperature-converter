@@ -7,10 +7,11 @@ This mini project converts temperature values between Celsius and Fahrenheit.
 
 ## 🚀 Features:
 
--Convert Celsius to Fahrenheit
--Convert Fahrenheit to Celsius
--User-friendly CLI input
--Instant conversion result
+- Convert Celsius to Fahrenheit
+- Convert Fahrenheit to Celsius
+- User-friendly CLI input
+- Instant conversion result
+
 ---
 
 ## 🛠 Technologies Used:
