@@ -16,7 +16,8 @@ This mini project converts temperature values between Celsius and Fahrenheit.
 
 ## 🛠 Technologies Used:
 
-Python 3
+- Python 3
+
 ---
 
 ## 🧠 Concepts Used:
