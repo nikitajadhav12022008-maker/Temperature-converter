@@ -59,13 +59,9 @@ python temperature_converter.py
 
 ---
 
-
-
-
-
 ## 🙋‍♀️ Author:
-
 Nikita Jadhav
+
 ---
 
 ## ⭐ If you like this project, don’t forget to star the repository!
