@@ -37,7 +37,7 @@ This mini project converts temperature values between Celsius and Fahrenheit.
  
 ---
 
-##📌 Sample Output:
+## 📌 Sample Output:
 
 - Enter temperature: 25
 - Enter unit (C/F): C
