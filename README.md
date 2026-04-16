@@ -37,6 +37,18 @@ This mini project converts temperature values between Celsius and Fahrenheit.
  
 ---
 
+##📌 Sample Output:
+
+- Enter temperature: 25
+- Enter unit (C/F): C
+- Converted Temperature: 77.0 F
+OR
+- Enter temperature: 98
+- Enter unit (C/F): F
+- Converted Temperature: 36.6 C
+
+---
+
 ## ▶️ How to Run:
 
 Make sure Python is installed on your system
@@ -46,16 +58,7 @@ Run the program using:
 python temperature_converter.py
 ---
 
-##📌 Sample Output:
 
-Enter temperature: 25
-Enter unit (C/F): C
-Converted Temperature: 77.0 F
-OR
-Enter temperature: 98
-Enter unit (C/F): F
-Converted Temperature: 36.6 C
----
 
 
 
