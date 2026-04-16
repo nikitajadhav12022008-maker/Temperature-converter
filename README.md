@@ -51,11 +51,12 @@ OR
 
 ## ▶️ How to Run:
 
-Make sure Python is installed on your system
-Clone the repository or download the file
-Run the program using:
+- Make sure Python is installed on your system
+- Clone the repository or download the file
+- Run the program using:
 ```bash
 python temperature_converter.py
+
 ---
 
 
